@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>improved taste claims &#8211; The Institute for Sensory Research</title>
+	<atom:link href="/tag/improved-taste-claims/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A full-service sensory research organization</description>
+	<lastBuildDate>Wed, 17 Feb 2021 21:00:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/03/cropped-cropped-isr-logo-symbol-color-300px-20161-100x100.png</url>
+	<title>improved taste claims &#8211; The Institute for Sensory Research</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Using Descriptive Analysis for &#8220;Improved Taste&#8221; Claims on Vitamins</title>
+		<link>/2021/06/16/using-descriptive-analysis-for-improved-taste-claims-on-vitamins/</link>
+		
+		<dc:creator><![CDATA[ISR]]></dc:creator>
+		<pubDate>Wed, 16 Jun 2021 10:53:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[descriptive analysis]]></category>
+		<category><![CDATA[improved taste claims]]></category>
+		<guid isPermaLink="false">http://isr-www.azurewebsites.net/?p=1407</guid>
+
+					<description><![CDATA[Background Our client has moved their vitamin production. Based on the team tasting, the new flavors are considered an improvement from the original flavors. As such, the team would like to add a claim on the product to indicate that &#8230; <a href="/2021/06/16/using-descriptive-analysis-for-improved-taste-claims-on-vitamins/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<h2>Background</h2>
+
+
+
+<p>Our client has moved their vitamin production. Based on the team tasting, the new flavors are considered an improvement from the original flavors. As such, the team would like to add a claim on the product to indicate that the taste has improved.</p>
+
+
+
+<h2>Objective</h2>
+
+
+
+<p>The study objective is to substantiate the following claim: “Improved Taste” or “New Improved Taste”, using prototypes with new flavors for all vitamins.</p>
+
+
+
+<h2>What We Did</h2>
+
+
+
+<p>We conducted Descriptive Analysis with our panel of sensory experts with data collecting using a t-test.</p>
+
+
+
+<div class="wp-block-columns">
+<div class="wp-block-column">
+<ul><li>Samples were presented using sequential monadic design and blocked by flavor.</li><li>Panelists focused on flavor attributes, including acidity, tartness, and flavor character.</li></ul>
+</div>
+
+
+
+<div class="wp-block-column">
+<figure class="wp-block-image size-large"><img width="593" height="438" src="/wp-content/uploads/2021/02/control-v-test.png" alt="" class="wp-image-1415" srcset="/wp-content/uploads/2021/02/control-v-test.png 593w, /wp-content/uploads/2021/02/control-v-test-300x222.png 300w" sizes="(max-width: 593px) 100vw, 593px" /></figure>
+</div>
+</div>
+
+
+
+<h2>What We Learned</h2>
+
+
+
+<p>Here&#8217;s the visual representation of how the Peach vitamins compare to each other:</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="960" height="496" src="/wp-content/uploads/2021/02/descriptive-analysis-peach.png" alt="" class="wp-image-1408" srcset="/wp-content/uploads/2021/02/descriptive-analysis-peach.png 960w, /wp-content/uploads/2021/02/descriptive-analysis-peach-300x155.png 300w, /wp-content/uploads/2021/02/descriptive-analysis-peach-768x397.png 768w" sizes="(max-width: 960px) 100vw, 960px" /></figure></div>
+
+
+
+<p>And, this is the Strawberry representation:</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="967" height="477" src="/wp-content/uploads/2021/02/descriptive-analysis-strawberry.png" alt="" class="wp-image-1409" srcset="/wp-content/uploads/2021/02/descriptive-analysis-strawberry.png 967w, /wp-content/uploads/2021/02/descriptive-analysis-strawberry-300x148.png 300w, /wp-content/uploads/2021/02/descriptive-analysis-strawberry-768x379.png 768w" sizes="(max-width: 967px) 100vw, 967px" /></figure></div>
+
+
+
+<p>To view the PDF, click <a href="http://www.sensoryguidance.com/wp-content/uploads/2021/02/ISR-Case-Study-Descriptive-Analysis-for-Improved-Taste-Vitamins.pdf" target="_blank" rel="noreferrer noopener">here</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

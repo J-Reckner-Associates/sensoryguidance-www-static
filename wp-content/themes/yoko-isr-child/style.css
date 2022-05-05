@@ -1,0 +1,287 @@
+/*
+Theme Name: Yoko Child for ISR
+Theme URI: httpssensoryguidance.com
+Author: Mike FitzSimmons
+Author URI: httpssensoryguidance.com
+Template:     yoko
+Description: updating header images and logo
+Version: 1.2.3
+License: GNU/GPL Version 2 or later
+License URI: http://www.gnu.org/licenses/gpl.html
+Text Domain: yoko-child-isr
+Tags: light, three-columns, right-sidebar, responsive-layout, custom-colors, custom-header, custom-background, custom-menu, theme-options, threaded-comments, sticky-post, translation-ready
+*/
+
+#site-title .logo {
+    display: block;
+    margin-bottom: 15px;
+    width: auto;
+    max-width: 328px;
+    height: auto;
+    max-height: 164px;
+}
+
+#content .page-entry-header h1.entry-title, #content h1 {
+	font-size:2.4em;
+}
+#content h2 {
+	font-size:2.08em;
+}
+#content .entry-header h2.entry-title {
+	font-size:2.08em;
+}
+footer p {
+	display:none;
+}
+
+#footer-sidebar {
+display:block;
+/*height: 250px;*/
+}
+
+#footer-sidebar1 {
+/*
+float: left;
+width: 340px;
+margin-left:5px;
+margin-right:5px;
+*/
+}
+
+#footer-sidebar2 {
+/*
+float: left;
+width: 340px;
+margin-right:5px;
+*/
+}
+
+@media screen and (min-width:801px) { 
+	.sidebyside { 
+		display:inline-block;
+		width:300px;
+		margin:0 20px;
+		vertical-align:top;
+	}
+}
+
+header h1 {
+	display:none;
+}
+header.single-entry-header h1 { 
+	display:block; 
+}
+
+/*Recent posts widget*/
+aside.recent-posts-widget-with-thumbnails {
+	font-size:1em;
+}
+aside.recent-posts-widget-with-thumbnails h3.widget-title {
+	font-size:2em;
+	text-transform: none;
+	font-family: gibson, 'Droid Sans', arial, sans-serif;
+	cursor:pointer;
+}
+aside.recent-posts-widget-with-thumbnails h3.widget-title:hover {
+	text-decoration:underline;
+}
+aside.recent-posts-widget-with-thumbnails ul li {
+	padding:0;
+}
+aside.recent-posts-widget-with-thumbnails .rpwwt-widget {
+	text-align:center;
+}
+aside.recent-posts-widget-with-thumbnails .rpwwt-widget ul li {
+	display:inline-block;
+	width:300px;
+	margin:15px;
+	vertical-align:bottom;
+	position:relative;
+}
+aside.recent-posts-widget-with-thumbnails .rpwwt-widget ul li img {
+	display: block;
+	float:none;
+	margin: 0;
+}
+aside.recent-posts-widget-with-thumbnails .rpwwt-widget ul li a .rpwwt-post-title {
+	display:block;
+	width:100%;
+	position:absolute;
+	bottom:0;
+	left:0;
+	background:rgb(127,127,127);
+	background:rgba(0,0,0,0.5);
+	color:#FFF;
+	font-size:16px;
+	padding:0.2em 0.1em;
+}
+aside.recent-posts-widget-with-thumbnails .rpwwt-widget ul li a:hover .rpwwt-post-title {
+	text-decoration:underline;
+}
+
+/*only show those that will fit on one line*/
+/*below 880px, the side margins go up to 100px total*/
+/*above 880px, the side margins go down to 60px total*/
+@media only screen and (max-width: 350px) {
+	aside.recent-posts-widget-with-thumbnails .rpwwt-widget ul li:nth-of-type(1) {
+		display:none;
+	}
+}
+@media only screen and (max-width: 760px) {
+	aside.recent-posts-widget-with-thumbnails .rpwwt-widget ul li:nth-of-type(2) {
+		display:none;
+	}
+}
+@media only screen and (max-width: 1050px) {
+	aside.recent-posts-widget-with-thumbnails .rpwwt-widget ul li:nth-of-type(3) {
+		display:none;
+	}
+}
+@media only screen and (max-width: 1370px) {
+	aside.recent-posts-widget-with-thumbnails .rpwwt-widget ul li:nth-of-type(4) {
+		display:none;
+	}
+}
+@media only screen and (max-width: 1700px) {
+	aside.recent-posts-widget-with-thumbnails .rpwwt-widget ul li:nth-of-type(5) {
+		display:none;
+	}
+}
+
+
+hr {
+	display:block;
+	border:0;
+	height:10px;
+	background-image:url("/wp-content/themes/yoko-isr-child/assets/images/tan-line-(centers).png");
+}
+
+
+/*
+.body-class {
+	background-repeat:no-repeat;
+	background-image:
+		url(/wp-content/themes/yoko-isr-child/image location),
+		url(/wp-content/themes/yoko-isr-child/image location);
+	background-position:
+		calc(50% + 593px + (image-width/2)) vertical offset, //right side
+		calc(50% - 593px - (image-width/2)) vertical offset; //left side
+	background-size:
+		image-width auto,
+		image-width auto;
+}		
+*/
+.page-id-293 { /*home*/
+	background-repeat:no-repeat;
+	background-image: 
+		url('/wp-content/themes/yoko-isr-child/assets/images/leaves pepper corn (HOME).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/coriander-seeds-(HOME).png');
+	background-position:
+		calc(50% + 593px + (600px/2)) 40%,
+		calc(50% - 593px - (575px/2)) 70%;
+	background-size:
+		600px auto,
+		575px auto;
+}
+.page-id-116 { /*about*/
+	background-repeat:no-repeat;
+	background-image: 
+		url('/wp-content/themes/yoko-isr-child/assets/images/rosemary-herb-(about).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/grapefruit-(ABOUT).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/apple-(about).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/purple-flowers-(about).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/caraway-seeds-(ABOUT).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/almonds-(ABOUT).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/cucumber-(ABOUT).png');
+	background-position:
+		calc(50% + 593px + (500px/2)) 15%,
+		calc(50% - 593px - (650px/2)) 25%,
+		calc(50% + 593px + (400px/2)) 40%,
+		calc(50% - 593px - (650px/2)) 55%,
+		calc(50% + 593px + (500px/2)) 70%,
+		calc(50% - 593px - (600px/2)) 85%,
+		calc(50% + 593px + (400px/2)) 95%;
+	background-size:
+		500px auto,
+		650px auto,
+		400px auto,
+		650px auto,
+		500px auto,
+		600px auto,
+		400px auto;
+}
+.page-id-151 { /*services*/
+	background-repeat:no-repeat;
+	background-image: 
+		url('/wp-content/themes/yoko-isr-child/assets/images/lilac-image.png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/sage-(herb)-image-(services).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/cinnamon-sticks-image-(services).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/blackberries-image-(services).png');
+	background-position:
+		calc(50% - 593px - (638px/2)) 30%,
+		calc(50% + 593px + (510px/2)) 50%,
+		calc(50% - 593px - (606px/2)) 70%,
+		calc(50% + 593px + (437px/2)) 100%;
+	background-size:
+		638px auto,
+		510px auto,
+		606px auto,
+		437px auto;
+}
+.page-id-161 { /*panels*/
+	background-repeat:no-repeat;
+	background-image: 
+		url('/wp-content/themes/yoko-isr-child/assets/images/coffee-beans-image-(panels).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/lemon-image-(panels).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/white-jasmine-image-(panels).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/raspberries-image-(panels).png');
+	background-position:
+		calc(50% - 593px - (665px/2)) 35%,
+		calc(50% + 593px + (468px/2)) 55%,
+		calc(50% - 593px - (542px/2)) 80%,
+		calc(50% + 593px + (477px/2)) 100%;
+	background-size:
+		665px auto,
+		468px auto,
+		542px auto,
+		477px auto;
+}
+.page-id-169 { /*centers*/
+	background-repeat:no-repeat;
+	background-image: 
+		url('/wp-content/themes/yoko-isr-child/assets/images/peach-(centers).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/lily-of-valley-(centers).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/chili-peppers-(centers).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/vanilla-beans-(centers).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/mint-leaves-(centers).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/wildflowers-(centers).png');
+	background-position:
+		calc(50% + 593px + (422px/2)) 30%,
+		calc(50% - 593px - (626px/2)) 40%,
+		calc(50% + 593px + (564px/2)) 50%,
+		calc(50% - 593px - (564px/2)) 65%,
+		calc(50% + 593px + (474px/2)) 80%,
+		calc(50% - 593px - (400px/2)) 100%;
+	background-size:
+		422px auto,
+		626px auto,
+		564px auto,
+		564px auto,
+		474px auto,
+		400px auto;
+}
+.page-id-197 { /*connect*/
+	background-repeat:no-repeat;
+	background-image: 
+		url('/wp-content/themes/yoko-isr-child/assets/images/rose-(connect).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/herb-bunch-(connect).png'),
+		url('/wp-content/themes/yoko-isr-child/assets/images/red--onion-(connect).png');
+	background-position:
+		calc(50% + 593px + (608px/2)) 25%,
+		calc(50% - 593px - (556px/2)) 40%,
+		calc(50% + 593px + (514px/2)) 55%;
+	background-size:
+		608px auto,
+		556px auto,
+		514px auto;
+}

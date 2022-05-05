@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>alcohol beverage &#8211; The Institute for Sensory Research</title>
+	<atom:link href="/tag/alcohol-beverage/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A full-service sensory research organization</description>
+	<lastBuildDate>Wed, 17 Feb 2021 21:02:36 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/03/cropped-cropped-isr-logo-symbol-color-300px-20161-100x100.png</url>
+	<title>alcohol beverage &#8211; The Institute for Sensory Research</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Developing a Sensory Profile for Flavored Alcohol Beverage Products</title>
+		<link>/2021/05/12/developing-a-sensory-profile-for-flavored-alcohol-beverage-products/</link>
+		
+		<dc:creator><![CDATA[ISR]]></dc:creator>
+		<pubDate>Wed, 12 May 2021 11:01:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[alcohol beverage]]></category>
+		<category><![CDATA[product profile]]></category>
+		<guid isPermaLink="false">http://isr-www.azurewebsites.net/?p=1418</guid>
+
+					<description><![CDATA[Objective Our client would like a quantitative profile of each of their flavored alcohol beverage products and an overall summary of the product characteristics. Methodology What We Learned We developed a product profile for each of the three flavors. Here&#8217;s &#8230; <a href="/2021/05/12/developing-a-sensory-profile-for-flavored-alcohol-beverage-products/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<h2>Objective</h2>
+
+
+
+<p>Our client would like a quantitative profile of each of their flavored alcohol beverage products and an overall summary of the product characteristics.</p>
+
+
+
+<h2>Methodology</h2>
+
+
+
+<figure class="wp-block-image size-large"><img width="987" height="362" src="/wp-content/uploads/2021/02/methodology.png" alt="" class="wp-image-1419" srcset="/wp-content/uploads/2021/02/methodology.png 987w, /wp-content/uploads/2021/02/methodology-300x110.png 300w, /wp-content/uploads/2021/02/methodology-768x282.png 768w" sizes="(max-width: 987px) 100vw, 987px" /></figure>
+
+
+
+<h2>What We Learned</h2>
+
+
+
+<p>We developed a product profile for each of the three flavors. Here&#8217;s an example of one of them:</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1024" height="481" src="/wp-content/uploads/2021/02/product-profile-1024x481.png" alt="" class="wp-image-1420" srcset="/wp-content/uploads/2021/02/product-profile-1024x481.png 1024w, /wp-content/uploads/2021/02/product-profile-300x141.png 300w, /wp-content/uploads/2021/02/product-profile-768x361.png 768w, /wp-content/uploads/2021/02/product-profile.png 1411w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure></div>
+
+
+
+<p>And here is a visual representation for the three flavors:</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="1019" height="652" src="/wp-content/uploads/2021/02/flavor-representation.png" alt="" class="wp-image-1421" srcset="/wp-content/uploads/2021/02/flavor-representation.png 1019w, /wp-content/uploads/2021/02/flavor-representation-300x192.png 300w, /wp-content/uploads/2021/02/flavor-representation-768x491.png 768w" sizes="(max-width: 1019px) 100vw, 1019px" /></figure></div>
+
+
+
+<p>For the complete PDF, click <a href="http://www.sensoryguidance.com/wp-content/uploads/2021/02/ISR-Case-Study-Sensory-Profile-for-Flavored-Alcohol.pdf" target="_blank" rel="noreferrer noopener">here</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

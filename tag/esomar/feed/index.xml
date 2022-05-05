@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>esomar &#8211; The Institute for Sensory Research</title>
+	<atom:link href="/tag/esomar/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A full-service sensory research organization</description>
+	<lastBuildDate>Mon, 20 Jul 2020 16:23:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2017/03/cropped-cropped-isr-logo-symbol-color-300px-20161-100x100.png</url>
+	<title>esomar &#8211; The Institute for Sensory Research</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>ESOMAR Client Summit</title>
+		<link>/2019/06/25/esomar-client-summit/</link>
+		
+		<dc:creator><![CDATA[ISR]]></dc:creator>
+		<pubDate>Tue, 25 Jun 2019 20:49:04 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[esomar]]></category>
+		<category><![CDATA[sensory capabilities]]></category>
+		<category><![CDATA[sensory facility]]></category>
+		<category><![CDATA[sensory research]]></category>
+		<guid isPermaLink="false">http://isr-www.azurewebsites.net/?p=986</guid>
+
+					<description><![CDATA[If you’re heading to the ESOMAR Client Summit in NYC this week, we’d love to catch up with you.&#160; We’ll have a tabletop exhibit so please pop by to say hello!&#160; Or, reach out and we’ll arrange a time for &#8230; <a href="/2019/06/25/esomar-client-summit/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>If you’re heading to the ESOMAR Client Summit in NYC this week, we’d love to catch up with you.&nbsp; We’ll have a tabletop exhibit so please pop by to say hello!&nbsp; Or, reach out and we’ll arrange a time for coffee or food!</p>
+
+
+
+<p>If you can&#8217;t make it, but still want to get some info from us, then we recommend that you take a look at this <a href="http://www.sensoryguidance.com/wp-content/uploads/2020/07/ISR-Capabilities-2020.pdf">Capabilities Summary</a> or our <a href="http://www.sensoryguidance.com/wp-content/uploads/2020/07/ISR-Facility-Specs.pdf">Facility Spec Sheet</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
